@@ -24,13 +24,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@Krishna56025038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skrishna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/krishna sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishna sharma" height="30" width="40" /></a>
-<a href="https://fb.com/krishna sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/skrishna9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna sharma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/skkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishna sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/skrishna99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna sharma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hikrishnasharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sharmakri98597" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharmakri98597" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishna sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sharmakri98597?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/sharmakri98597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
