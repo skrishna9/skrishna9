@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Restaurant App**
 
-- 🌱 I’m currently learning **React-Native , Katlin**
+- 🌱 I’m currently learning **React-Native , Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://skrishna9.github.io/Portfolio-/](https://skrishna9.github.io/Portfolio-/)
 
